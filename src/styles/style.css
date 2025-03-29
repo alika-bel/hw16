@@ -5,7 +5,7 @@
   max-width: 800px;
   margin: 0 auto;
   background-position: center, bottom, top, right, left;
-  background-repeat: no-repeat, repeat-x, repeat-x repeat-y, repeat-y;
+  background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
   background-color: green;
   background-size: 500px, 200px, 32px, 20px, 20px;
   background-clip: border-box;
