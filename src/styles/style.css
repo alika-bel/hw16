@@ -1,0 +1,12 @@
+.bg-box {
+  background-image: url(../img/house.webp), url(../img/grass.png),
+    url(../img/lamp.png), url(../img/donut.png), url(../img/hadgehog.webp);
+  min-height: 500px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-position: center, bottom, top, right, left;
+  background-repeat: no-repeat, repeat-x, repeat-x repeat-y, repeat-y;
+  background-color: green;
+  background-size: 500px, 200px, 32px, 20px, 20px;
+  background-clip: border-box;
+}
